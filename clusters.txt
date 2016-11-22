@@ -1,0 +1,767 @@
+Cluster 1:
+	/home/user/gitstuff/computervision/photos/20160707_134329.jpg
+	/home/user/gitstuff/computervision/photos/20160707_134323.jpg
+
+
+Cluster 2:
+	/home/user/gitstuff/computervision/photos/20160707_123843.jpg
+	/home/user/gitstuff/computervision/photos/20160707_123821.jpg
+
+
+Cluster 3:
+	/home/user/gitstuff/computervision/photos/paris_general_000076.jpg
+
+
+Cluster 4:
+	/home/user/gitstuff/computervision/photos/paris_general_000084.jpg
+	/home/user/gitstuff/computervision/photos/paris_general_000021.jpg
+
+
+Cluster 5:
+	/home/user/gitstuff/computervision/photos/paris_general_000079.jpg
+
+
+Cluster 6:
+	/home/user/gitstuff/computervision/photos/20160707_135611.jpg
+
+
+Cluster 7:
+	/home/user/gitstuff/computervision/photos/20160709_162252.jpg
+	/home/user/gitstuff/computervision/photos/20160709_162246.jpg
+
+
+Cluster 8:
+	/home/user/gitstuff/computervision/photos/20160706_195050.jpg
+
+
+Cluster 9:
+	/home/user/gitstuff/computervision/photos/paris_general_000086.jpg
+
+
+Cluster 10:
+	/home/user/gitstuff/computervision/photos/paris_general_000002.jpg
+
+
+Cluster 11:
+	/home/user/gitstuff/computervision/photos/paris_general_000009.jpg
+
+
+Cluster 12:
+	/home/user/gitstuff/computervision/photos/0113.jpg
+
+
+Cluster 13:
+	/home/user/gitstuff/computervision/photos/20160707_125403.jpg
+	/home/user/gitstuff/computervision/photos/20160707_125400.jpg
+	/home/user/gitstuff/computervision/photos/20160707_125405.jpg
+
+
+Cluster 14:
+	/home/user/gitstuff/computervision/photos/20160707_123843.jpg
+	/home/user/gitstuff/computervision/photos/20160707_123821.jpg
+
+
+Cluster 15:
+	/home/user/gitstuff/computervision/photos/20160706_113152.jpg
+	/home/user/gitstuff/computervision/photos/20160706_113157.jpg
+
+
+Cluster 16:
+	/home/user/gitstuff/computervision/photos/paris_general_000018.jpg
+
+
+Cluster 17:
+	/home/user/gitstuff/computervision/photos/paris_general_000004.jpg
+
+
+Cluster 18:
+	/home/user/gitstuff/computervision/photos/paris_general_000019.jpg
+
+
+Cluster 19:
+	/home/user/gitstuff/computervision/photos/20160709_162303.jpg
+	/home/user/gitstuff/computervision/photos/20160709_162300.jpg
+
+
+Cluster 20:
+	/home/user/gitstuff/computervision/photos/20160913_140724.jpg
+
+
+Cluster 21:
+	/home/user/gitstuff/computervision/photos/paris_general_000013.jpg
+
+
+Cluster 22:
+	/home/user/gitstuff/computervision/photos/20160708_132200.jpg
+
+
+Cluster 23:
+	/home/user/gitstuff/computervision/photos/0110.jpg
+
+
+Cluster 24:
+	/home/user/gitstuff/computervision/photos/20160706_111435.jpg
+	/home/user/gitstuff/computervision/photos/20160706_111437.jpg
+	/home/user/gitstuff/computervision/photos/20160706_111438.jpg
+
+
+Cluster 25:
+	/home/user/gitstuff/computervision/photos/0114.jpg
+
+
+Cluster 26:
+	/home/user/gitstuff/computervision/photos/20160707_134331.jpg
+
+
+Cluster 27:
+	/home/user/gitstuff/computervision/photos/paris_general_000092.jpg
+
+
+Cluster 28:
+	/home/user/gitstuff/computervision/photos/paris_general_000063.jpg
+
+
+Cluster 29:
+	/home/user/gitstuff/computervision/photos/20160708_140402.jpg
+	/home/user/gitstuff/computervision/photos/20160708_140405.jpg
+	/home/user/gitstuff/computervision/photos/20160708_140331.jpg
+
+
+Cluster 30:
+	/home/user/gitstuff/computervision/photos/0103.jpg
+
+
+Cluster 31:
+	/home/user/gitstuff/computervision/photos/0109.jpg
+
+
+Cluster 32:
+	/home/user/gitstuff/computervision/photos/paris_general_000071.jpg
+
+
+Cluster 33:
+	/home/user/gitstuff/computervision/photos/paris_general_000085.jpg
+
+
+Cluster 34:
+	/home/user/gitstuff/computervision/photos/paris_general_000021.jpg
+	/home/user/gitstuff/computervision/photos/paris_general_000084.jpg
+
+
+Cluster 35:
+	/home/user/gitstuff/computervision/photos/20160706_111435.jpg
+	/home/user/gitstuff/computervision/photos/20160706_111437.jpg
+	/home/user/gitstuff/computervision/photos/20160706_111438.jpg
+
+
+Cluster 36:
+	/home/user/gitstuff/computervision/photos/20160708_132614.jpg
+
+
+Cluster 37:
+	/home/user/gitstuff/computervision/photos/20160709_162252.jpg
+	/home/user/gitstuff/computervision/photos/20160709_162246.jpg
+
+
+Cluster 38:
+	/home/user/gitstuff/computervision/photos/20160708_125530.jpg
+	/home/user/gitstuff/computervision/photos/20160708_125532.jpg
+
+
+Cluster 39:
+	/home/user/gitstuff/computervision/photos/20160706_121538.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121528.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121526.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121536.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121529.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121537.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121531.jpg
+
+
+Cluster 40:
+	/home/user/gitstuff/computervision/photos/0102.jpg
+
+
+Cluster 41:
+	/home/user/gitstuff/computervision/photos/20160707_130540.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130651.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130554.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130524.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130513.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130533.jpg
+
+
+Cluster 42:
+	/home/user/gitstuff/computervision/photos/paris_general_000078.jpg
+
+
+Cluster 43:
+	/home/user/gitstuff/computervision/photos/paris_general_000067.jpg
+
+
+Cluster 44:
+	/home/user/gitstuff/computervision/photos/paris_general_000037.jpg
+
+
+Cluster 45:
+	/home/user/gitstuff/computervision/photos/0101.jpg
+
+
+Cluster 46:
+	/home/user/gitstuff/computervision/photos/20160601_112840.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112831.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112833.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112849.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112838.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112848.jpg
+
+
+Cluster 47:
+	/home/user/gitstuff/computervision/photos/20160707_130540.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130651.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130554.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130524.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130513.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130533.jpg
+
+
+Cluster 48:
+	/home/user/gitstuff/computervision/photos/20160707_134329.jpg
+	/home/user/gitstuff/computervision/photos/20160707_134323.jpg
+
+
+Cluster 49:
+	/home/user/gitstuff/computervision/photos/paris_general_000024.jpg
+
+
+Cluster 50:
+	/home/user/gitstuff/computervision/photos/0104.jpg
+
+
+Cluster 51:
+	/home/user/gitstuff/computervision/photos/20160708_125530.jpg
+	/home/user/gitstuff/computervision/photos/20160708_125532.jpg
+
+
+Cluster 52:
+	/home/user/gitstuff/computervision/photos/0117.jpg
+
+
+Cluster 53:
+	/home/user/gitstuff/computervision/photos/20160601_112840.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112831.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112833.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112849.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112838.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112848.jpg
+
+
+Cluster 54:
+	/home/user/gitstuff/computervision/photos/paris_general_000001.jpg
+	/home/user/gitstuff/computervision/photos/paris_general_000014.jpg
+
+
+Cluster 55:
+	/home/user/gitstuff/computervision/photos/paris_general_000026.jpg
+
+
+Cluster 56:
+	/home/user/gitstuff/computervision/photos/20160707_125403.jpg
+	/home/user/gitstuff/computervision/photos/20160707_125405.jpg
+	/home/user/gitstuff/computervision/photos/20160707_125400.jpg
+
+
+Cluster 57:
+	/home/user/gitstuff/computervision/photos/20160706_115922.jpg
+	/home/user/gitstuff/computervision/photos/20160706_115923.jpg
+
+
+Cluster 58:
+	/home/user/gitstuff/computervision/photos/paris_general_000060.jpg
+
+
+Cluster 59:
+	/home/user/gitstuff/computervision/photos/20160709_162252.jpg
+	/home/user/gitstuff/computervision/photos/20160709_162246.jpg
+	/home/user/gitstuff/computervision/photos/0119.jpg
+
+
+Cluster 60:
+	/home/user/gitstuff/computervision/photos/paris_general_000022.jpg
+
+
+Cluster 61:
+	/home/user/gitstuff/computervision/photos/paris_general_000083.jpg
+
+
+Cluster 62:
+	/home/user/gitstuff/computervision/photos/paris_general_000088.jpg
+
+
+Cluster 63:
+	/home/user/gitstuff/computervision/photos/20160707_130540.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130651.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130554.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130524.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130513.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130533.jpg
+
+
+Cluster 64:
+	/home/user/gitstuff/computervision/photos/paris_general_000062.jpg
+
+
+Cluster 65:
+	/home/user/gitstuff/computervision/photos/20160706_121538.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121528.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121526.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121536.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121529.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121537.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121531.jpg
+
+
+Cluster 66:
+	/home/user/gitstuff/computervision/photos/20160706_195051.jpg
+
+
+Cluster 67:
+	/home/user/gitstuff/computervision/photos/20160601_112840.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112831.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112833.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112849.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112838.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112848.jpg
+
+
+Cluster 68:
+	/home/user/gitstuff/computervision/photos/paris_general_000058.jpg
+
+
+Cluster 69:
+	/home/user/gitstuff/computervision/photos/20160706_113152.jpg
+	/home/user/gitstuff/computervision/photos/20160706_113157.jpg
+
+
+Cluster 70:
+	/home/user/gitstuff/computervision/photos/paris_general_000012.jpg
+
+
+Cluster 71:
+	/home/user/gitstuff/computervision/photos/20160707_122008.jpg
+	/home/user/gitstuff/computervision/photos/20160707_122002.jpg
+
+
+Cluster 72:
+	/home/user/gitstuff/computervision/photos/paris_general_000090.jpg
+
+
+Cluster 73:
+	/home/user/gitstuff/computervision/photos/20160706_121538.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121528.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121526.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121536.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121529.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121537.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121531.jpg
+
+
+Cluster 74:
+	/home/user/gitstuff/computervision/photos/paris_general_000043.jpg
+
+
+Cluster 75:
+	/home/user/gitstuff/computervision/photos/20160722_115821.jpg
+
+
+Cluster 76:
+	/home/user/gitstuff/computervision/photos/20160709_075333.jpg
+
+
+Cluster 77:
+	/home/user/gitstuff/computervision/photos/20160706_115918.jpg
+
+
+Cluster 78:
+	/home/user/gitstuff/computervision/photos/20160706_121538.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121528.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121526.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121536.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121529.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121537.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121531.jpg
+
+
+Cluster 79:
+	/home/user/gitstuff/computervision/photos/20160708_181627.jpg
+	/home/user/gitstuff/computervision/photos/20160708_181629.jpg
+
+
+Cluster 80:
+	/home/user/gitstuff/computervision/photos/paris_general_000074.jpg
+
+
+Cluster 81:
+	/home/user/gitstuff/computervision/photos/paris_general_000017.jpg
+
+
+Cluster 82:
+	/home/user/gitstuff/computervision/photos/20160707_123818.jpg
+
+
+Cluster 83:
+	/home/user/gitstuff/computervision/photos/20160709_162303.jpg
+	/home/user/gitstuff/computervision/photos/20160709_162300.jpg
+
+
+Cluster 84:
+	/home/user/gitstuff/computervision/photos/20160708_125536.jpg
+
+
+Cluster 85:
+	/home/user/gitstuff/computervision/photos/20160708_132608.jpg
+
+
+Cluster 86:
+	/home/user/gitstuff/computervision/photos/20160601_111919.jpg
+	/home/user/gitstuff/computervision/photos/20160601_111922.jpg
+
+
+Cluster 87:
+	/home/user/gitstuff/computervision/photos/paris_general_000023.jpg
+
+
+Cluster 88:
+	/home/user/gitstuff/computervision/photos/20160708_125554.jpg
+
+
+Cluster 89:
+	/home/user/gitstuff/computervision/photos/0106.jpg
+
+
+Cluster 90:
+	/home/user/gitstuff/computervision/photos/paris_general_000094.jpg
+
+
+Cluster 91:
+	/home/user/gitstuff/computervision/photos/20160706_115934.jpg
+
+
+Cluster 92:
+	/home/user/gitstuff/computervision/photos/0115.jpg
+
+
+Cluster 93:
+	/home/user/gitstuff/computervision/photos/0105.jpg
+
+
+Cluster 94:
+	/home/user/gitstuff/computervision/photos/20160601_111919.jpg
+	/home/user/gitstuff/computervision/photos/20160601_111922.jpg
+
+
+Cluster 95:
+	/home/user/gitstuff/computervision/photos/paris_general_000081.jpg
+
+
+Cluster 96:
+	/home/user/gitstuff/computervision/photos/20160708_193059.jpg
+
+
+Cluster 97:
+	/home/user/gitstuff/computervision/photos/20160706_195046.jpg
+
+
+Cluster 98:
+	/home/user/gitstuff/computervision/photos/paris_general_000001.jpg
+	/home/user/gitstuff/computervision/photos/paris_general_000014.jpg
+
+
+Cluster 99:
+	/home/user/gitstuff/computervision/photos/paris_general_000007.jpg
+
+
+Cluster 100:
+	/home/user/gitstuff/computervision/photos/0100.jpg
+
+
+Cluster 101:
+	/home/user/gitstuff/computervision/photos/20160709_075333.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121528.jpg
+	/home/user/gitstuff/computervision/photos/20160708_181629.jpg
+	/home/user/gitstuff/computervision/photos/paris_general_000021.jpg
+	/home/user/gitstuff/computervision/photos/20160709_162252.jpg
+	/home/user/gitstuff/computervision/photos/20160709_162246.jpg
+	/home/user/gitstuff/computervision/photos/0113.jpg
+	/home/user/gitstuff/computervision/photos/20160707_123821.jpg
+	/home/user/gitstuff/computervision/photos/0115.jpg
+	/home/user/gitstuff/computervision/photos/20160708_132200.jpg
+	/home/user/gitstuff/computervision/photos/0105.jpg
+	/home/user/gitstuff/computervision/photos/20160601_111919.jpg
+	/home/user/gitstuff/computervision/photos/20160708_193059.jpg
+	/home/user/gitstuff/computervision/photos/20160707_123843.jpg
+	/home/user/gitstuff/computervision/photos/20160708_140405.jpg
+	/home/user/gitstuff/computervision/photos/0103.jpg
+	/home/user/gitstuff/computervision/photos/0112.jpg
+	/home/user/gitstuff/computervision/photos/20160708_140331.jpg
+	/home/user/gitstuff/computervision/photos/20160601_111922.jpg
+	/home/user/gitstuff/computervision/photos/paris_general_000084.jpg
+	/home/user/gitstuff/computervision/photos/0119.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121538.jpg
+	/home/user/gitstuff/computervision/photos/paris_general_000061.jpg
+	/home/user/gitstuff/computervision/photos/0108.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121529.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121537.jpg
+	/home/user/gitstuff/computervision/photos/20160708_140402.jpg
+	/home/user/gitstuff/computervision/photos/20160708_181627.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121526.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121536.jpg
+	/home/user/gitstuff/computervision/photos/20160913_140732.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121531.jpg
+
+
+Cluster 102:
+	/home/user/gitstuff/computervision/photos/20160707_122008.jpg
+	/home/user/gitstuff/computervision/photos/20160707_122002.jpg
+
+
+Cluster 103:
+	/home/user/gitstuff/computervision/photos/20160708_140405.jpg
+	/home/user/gitstuff/computervision/photos/20160708_140402.jpg
+	/home/user/gitstuff/computervision/photos/20160708_140331.jpg
+
+
+Cluster 104:
+	/home/user/gitstuff/computervision/photos/paris_general_000091.jpg
+
+
+Cluster 105:
+	/home/user/gitstuff/computervision/photos/0111.jpg
+
+
+Cluster 106:
+	/home/user/gitstuff/computervision/photos/paris_general_000038.jpg
+
+
+Cluster 107:
+	/home/user/gitstuff/computervision/photos/20160706_121538.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121528.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121526.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121536.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121529.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121537.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121531.jpg
+
+
+Cluster 108:
+	/home/user/gitstuff/computervision/photos/20160601_112840.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112831.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112833.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112849.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112838.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112848.jpg
+
+
+Cluster 109:
+	/home/user/gitstuff/computervision/photos/20160601_112840.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112831.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112833.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112849.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112838.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112848.jpg
+
+
+Cluster 110:
+	/home/user/gitstuff/computervision/photos/20160706_115922.jpg
+	/home/user/gitstuff/computervision/photos/20160706_115923.jpg
+
+
+Cluster 111:
+	/home/user/gitstuff/computervision/photos/0112.jpg
+
+
+Cluster 112:
+	/home/user/gitstuff/computervision/photos/20160601_111929.jpg
+	/home/user/gitstuff/computervision/photos/20160601_111931.jpg
+
+
+Cluster 113:
+	/home/user/gitstuff/computervision/photos/20160708_181558.jpg
+
+
+Cluster 114:
+	/home/user/gitstuff/computervision/photos/20160707_130540.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130651.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130554.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130524.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130513.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130533.jpg
+
+
+Cluster 115:
+	/home/user/gitstuff/computervision/photos/20160601_112840.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112831.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112833.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112849.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112838.jpg
+	/home/user/gitstuff/computervision/photos/20160601_112848.jpg
+
+
+Cluster 116:
+	/home/user/gitstuff/computervision/photos/paris_general_000088.jpg
+	/home/user/gitstuff/computervision/photos/paris_general_000096.jpg
+
+
+Cluster 117:
+	/home/user/gitstuff/computervision/photos/paris_general_000010.jpg
+
+
+Cluster 118:
+	/home/user/gitstuff/computervision/photos/0118.jpg
+
+
+Cluster 119:
+	/home/user/gitstuff/computervision/photos/20160707_130540.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130651.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130554.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130524.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130513.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130533.jpg
+
+
+Cluster 120:
+	/home/user/gitstuff/computervision/photos/20160706_195045.jpg
+	/home/user/gitstuff/computervision/photos/20160706_195043.jpg
+
+
+Cluster 121:
+	/home/user/gitstuff/computervision/photos/20160601_111929.jpg
+	/home/user/gitstuff/computervision/photos/20160601_111931.jpg
+
+
+Cluster 122:
+	/home/user/gitstuff/computervision/photos/0108.jpg
+
+
+Cluster 123:
+	/home/user/gitstuff/computervision/photos/20160706_121538.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121528.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121526.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121536.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121529.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121537.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121531.jpg
+
+
+Cluster 124:
+	/home/user/gitstuff/computervision/photos/20160707_130540.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130651.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130554.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130524.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130513.jpg
+	/home/user/gitstuff/computervision/photos/20160707_130533.jpg
+
+
+Cluster 125:
+	/home/user/gitstuff/computervision/photos/20160706_121538.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121528.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121526.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121536.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121529.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121537.jpg
+	/home/user/gitstuff/computervision/photos/20160706_121531.jpg
+
+
+Cluster 126:
+	/home/user/gitstuff/computervision/photos/20160707_122010.jpg
+
+
+Cluster 127:
+	/home/user/gitstuff/computervision/photos/20160708_140405.jpg
+	/home/user/gitstuff/computervision/photos/20160708_140402.jpg
+	/home/user/gitstuff/computervision/photos/20160708_140331.jpg
+
+
+Cluster 128:
+	/home/user/gitstuff/computervision/photos/20160706_195045.jpg
+	/home/user/gitstuff/computervision/photos/20160706_195043.jpg
+
+
+Cluster 129:
+	/home/user/gitstuff/computervision/photos/paris_general_000016.jpg
+
+
+Cluster 130:
+	/home/user/gitstuff/computervision/photos/paris_general_000008.jpg
+
+
+Cluster 131:
+	/home/user/gitstuff/computervision/photos/paris_general_000025.jpg
+
+
+Cluster 132:
+	/home/user/gitstuff/computervision/photos/20160913_140727.jpg
+	/home/user/gitstuff/computervision/photos/20160913_140732.jpg
+
+
+Cluster 133:
+	/home/user/gitstuff/computervision/photos/paris_general_000089.jpg
+
+
+Cluster 134:
+	/home/user/gitstuff/computervision/photos/20160708_181627.jpg
+	/home/user/gitstuff/computervision/photos/20160708_181629.jpg
+
+
+Cluster 135:
+	/home/user/gitstuff/computervision/photos/20160706_111435.jpg
+	/home/user/gitstuff/computervision/photos/20160706_111437.jpg
+	/home/user/gitstuff/computervision/photos/20160706_111438.jpg
+
+
+Cluster 136:
+	/home/user/gitstuff/computervision/photos/paris_general_000003.jpg
+
+
+Cluster 137:
+	/home/user/gitstuff/computervision/photos/0120.jpg
+
+
+Cluster 138:
+	/home/user/gitstuff/computervision/photos/0107.jpg
+
+
+Cluster 139:
+	/home/user/gitstuff/computervision/photos/paris_general_000070.jpg
+
+
+Cluster 140:
+	/home/user/gitstuff/computervision/photos/0116.jpg
+
+
+Cluster 141:
+	/home/user/gitstuff/computervision/photos/20160706_111431.jpg
+
+
+Cluster 142:
+	/home/user/gitstuff/computervision/photos/paris_general_000075.jpg
+
+
+Cluster 143:
+	/home/user/gitstuff/computervision/photos/paris_general_000087.jpg
+
+
+Cluster 144:
+	/home/user/gitstuff/computervision/photos/paris_general_000093.jpg
+
+
+Cluster 145:
+	/home/user/gitstuff/computervision/photos/20160913_140732.jpg
+
+
+Cluster 146:
+	/home/user/gitstuff/computervision/photos/20160707_125403.jpg
+	/home/user/gitstuff/computervision/photos/20160707_125400.jpg
+	/home/user/gitstuff/computervision/photos/20160707_125405.jpg
+
+
