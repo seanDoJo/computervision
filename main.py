@@ -1,9 +1,11 @@
 from tkinter import *
+from tkinter import ttk
 from tkinter.filedialog import askopenfilename
 from clustering import clusterPhotos
 from html import (formatString, indexString)
 import os
 import shutil
+import webbrowser
 
 
 class MyApp():
@@ -11,6 +13,8 @@ class MyApp():
         self.listTag = "<li><a href=\"{}\">{}</a></li>"
         self.elemTag = "<li><a href=\"{}\">{}</a></li>"
         self.root = Tk()
+        #iself.root.style = ttk.Style()
+        #self.root.style.theme_use("clam")
         self.root.wm_title("Photo Sorter")
         self.files = set([])
         self.listbox = Listbox(self.root)
@@ -20,7 +24,7 @@ class MyApp():
         scrollbar = Scrollbar(self.root)
         sortButton = Button(self.root, text = 'Sort Photos', command = self.sortPhotos)
         chooseButton = Button(self.root, text = 'Add Photos', command = self.chooseFiles)
-
+        
         self.listbox.grid(row=3, column=1, padx=(100, 10))
         scrollbar.grid(row=3, column=2, sticky=E+W) 
         self.listbox.config(yscrollcommand=scrollbar.set)
@@ -63,6 +67,8 @@ class MyApp():
         indexfile.write(indextext)
         indexfile.close()
         print("Done")
+        url = "file://" + home
+        webbrowser.open_new(url)
         
 
 app = MyApp()
