@@ -8,7 +8,7 @@ import shutil
 
 class MyApp():
     def __init__(self):
-        self.listTag = "<li>{}</li>"
+        self.listTag = "<li><a href=\"{}\">{}</a></li>"
         self.elemTag = "<li><a href=\"{}\">{}</a></li>"
         self.root = Tk()
         self.root.wm_title("Photo Sorter")
@@ -37,6 +37,7 @@ class MyApp():
             self.listbox.insert(END, name)
 
     def sortPhotos(self):
+        home = os.getcwd()+"/output/index.html"
         clusters = clusterPhotos(self.files)
         if os.path.isdir(os.getcwd()+"/output"):
             shutil.rmtree(os.getcwd()+"/output")
@@ -50,17 +51,18 @@ class MyApp():
             listString = ""
             for assocFile in clusters[filename]:
                 f = assocFile.split('/')[-1]
-                newstr = self.listTag.format(f)
+                newstr = self.listTag.format(assocFile,f)
                 listString += newstr
             newIndexStr = self.elemTag.format(outfilename, sname)
             indexLinks += newIndexStr
-            fileStr = formatString.format(name, listString)
+            fileStr = formatString.format(home, home, filename, name, listString)
             newFile.write(fileStr)
             newFile.close()
-        indexfile = open(os.getcwd()+"/output/index.html", 'w')
-        indextext = indexString.format(indexLinks)
+        indexfile = open(home, 'w')
+        indextext = indexString.format(home, home, indexLinks)
         indexfile.write(indextext)
         indexfile.close()
+        print("Done")
         
 
 app = MyApp()
