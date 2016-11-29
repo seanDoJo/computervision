@@ -14,10 +14,13 @@ formatString = """
 	<nav class="navbar navbar-default">
 	  <div class="container-fluid">
 	    <div class="navbar-header">
-	      <a class="navbar-brand" href={} >CSCI 5722 Project</a>
+	      <a class="navbar-brand" href= "/" >CSCI 5722 Project</a>
 	    </div>
 	    <ul class="nav navbar-nav">
-	      <li class="active"><a href={} >Home</a></li>
+	      <li class="active"><a href= "/" >Home</a></li>
+	    </ul>
+	    <ul class="nav navbar-nav">
+	      <li class="active"><a href= "/cluster_page/" >Cluster Selection</a></li>
 	    </ul>
 	  </div>
 	</nav>
@@ -28,10 +31,10 @@ formatString = """
 			<p>Results</p>
 		</div>
 		<div>
-            		<h1>Cluster Results for <a href={}>{}</a></h1>
-           		<ul>
-               			{}
-            		</ul>
+			<h1>Cluster Results for <a href=\"{}\">{}</a></h1>
+		   	<ul>
+		       		{}
+		    	</ul>
         	</div>
 	</div>
 
@@ -54,10 +57,13 @@ indexString = """
 	<nav class="navbar navbar-default">
 	  <div class="container-fluid">
 	    <div class="navbar-header">
-	      <a class="navbar-brand" href={} >CSCI 5722 Project</a>
+	      <a class="navbar-brand" href= "/" >CSCI 5722 Project</a>
 	    </div>
 	    <ul class="nav navbar-nav">
-	      <li class="active"><a href={} >Home</a></li>
+	      <li class="active"><a href= "/" >Home</a></li>
+	    </ul>
+	    <ul class="nav navbar-nav">
+	      <li class="active"><a href= "/cluster_page/" >Cluster Selection</a></li>
 	    </ul>
 	  </div>
 	</nav>
@@ -66,13 +72,15 @@ indexString = """
 			<h1>CSCI 5722 Project</h1>      
 			<p>Welcome! Click the drop down below to see what clusters have been found.</p>
 		</div>
-		<div class="dropdown">
-		    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Clusters
-		    <span class="caret"></span></button>
-		    <ul class="dropdown-menu">
-			{}
-		    </ul>
-		</div>
+		<form action="/detail_page/" method="post">
+			<div class="form-group">
+	      			<label for="cluster">Cluster:</label>
+	      			<select class="form-control" name="cluster" id="cluster">
+					{}
+				</select>
+			</div>
+		 	<button type="submit" class="btn btn-primary">Submit</button>
+		</form>
 	</div>
     </body>
 </html> """
