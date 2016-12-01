@@ -19,9 +19,16 @@ formatString = """
 	    <ul class="nav navbar-nav">
 	      <li class="active"><a href= "/" >Home</a></li>
 	    </ul>
-	    <ul class="nav navbar-nav">
-	      <li class="active"><a href= "/cluster_page/" >Cluster Selection</a></li>
+        <ul class="nav navbar-nav">
+	      <li class="active"><a href= "/cluster_page/" >Similarity Cluster Selection</a></li>
 	    </ul>
+        <ul class="nav navbar-nav">
+	      <li class="active"><a href= "/face_cluster_page/" >Face Cluster Selection</a></li>
+	    </ul>
+        <ul class="nav navbar-nav">
+	      <li class="active"><a href= "/people_page/" >People Finder</a></li>
+	    </ul>
+
 	  </div>
 	</nav>
 
@@ -31,7 +38,8 @@ formatString = """
 			<p>Results</p>
 		</div>
 		<div>
-			<h1>Cluster Results for <a href=\"{}\">{}</a><img src={} style=\"height:200px;width:200px;image-orientation: from-image;\"></h1>
+			<h1>Cluster Results for <a href=\"{}\">{}</a><img src={} style=\"padding:20px;height:200px;width:200px;image-orientation:
+            from-image;\"></h1>
 		   	<ul>
 		       		{}
 		    	</ul>
@@ -62,9 +70,16 @@ indexString = """
 	    <ul class="nav navbar-nav">
 	      <li class="active"><a href= "/" >Home</a></li>
 	    </ul>
-	    <ul class="nav navbar-nav">
-	      <li class="active"><a href= "/cluster_page/" >Cluster Selection</a></li>
+        <ul class="nav navbar-nav">
+	      <li class="active"><a href= "/cluster_page/" >Similarity Cluster Selection</a></li>
 	    </ul>
+        <ul class="nav navbar-nav">
+	      <li class="active"><a href= "/face_cluster_page/" >Face Cluster Selection</a></li>
+	    </ul>
+        <ul class="nav navbar-nav">
+	      <li class="active"><a href= "/people_page/" >People Finder</a></li>
+	    </ul>
+
 	  </div>
 	</nav>
 	<div class="container">
@@ -106,11 +121,18 @@ peopleString = """
 	    <ul class="nav navbar-nav">
 	      <li class="active"><a href= "/" >Home</a></li>
 	    </ul>
-	    <ul class="nav navbar-nav">
-	      <li class="active"><a href= "/cluster_page/" >Cluster Selection</a></li>
+        <ul class="nav navbar-nav">
+	      <li class="active"><a href= "/cluster_page/" >Similarity Cluster Selection</a></li>
+	    </ul>
+        <ul class="nav navbar-nav">
+	      <li class="active"><a href= "/face_cluster_page/" >Face Cluster Selection</a></li>
+	    </ul>
+        <ul class="nav navbar-nav">
+	      <li class="active"><a href= "/people_page/" >People Finder</a></li>
 	    </ul>
 	  </div>
 	</nav>
+        <h2> Showing results for people detection: </h2>
         <ul>
             {}
         </ul>

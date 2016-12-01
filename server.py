@@ -11,7 +11,7 @@ app = Flask(__name__)
 class MyApp():
     def __init__(self):
         self.listTag = "<li><a href=\"{}\">{}</a><img src={} style=\"padding: 10px; width:100px; height:100px; image-orientation: from-image;\"></li>" 
-        self.elemTag = "<option value=\"{}\">{}(matches: {})</option>"
+        self.elemTag = "<option value=\"{}\">{} (matches: {})</option>"
 
         self.files = set([])
 
