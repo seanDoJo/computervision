@@ -7,3 +7,5 @@
   4. Open localhost:5000 on your web browser
   5. Follow the instructions on the page!
   
+  Note: If you want to re-choose images, refresh on the image selection page.
+  
