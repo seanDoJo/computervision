@@ -1,16 +1,27 @@
+"""
+
+Authors: Sean Donohoe, Kyle Wiese
+CSCI 5722 Final Project
+
+"""
+
 import cv2
 
 def selectPeople(files):
     people = []
     hog = cv2.HOGDescriptor()
+    # get the HOG people detector
     hog.setSVMDetector(cv2.HOGDescriptor_getDefaultPeopleDetector())
 
     for filen in files:
+        # following along with the tutorial at: http://www.pyimagesearch.com/2015/11/09/pedestrian-detection-opencv/
+
         im = cv2.imread(filen)
-        im = cv2.resize(im, (im.shape[0],min(400, im.shape[1])))
+        im = cv2.resize(im, (im.shape[0] ,min(400, im.shape[1])))
 
-        (locations, weights) = hog.detectMultiScale(im, winStride=(4, 4), padding=(8, 8), scale=1.1)
-
+        (locations, weights) = hog.detectMultiScale(im, winStride=(4, 4), padding=(8, 8), scale=1.05)
+        
+        # only return images in which there are people
         if len(locations) >= 1:
             people.append(filen)
     return people
@@ -29,6 +40,7 @@ def clusterPeople(files):
     sift = cv2.xfeatures2d.SIFT_create()
     matcher = cv2.BFMatcher()
 
+    # Extract all images with faces, keeping track of the face sub-images for each photo
     for filen in files:
         im = cv2.imread(filen)
         im = cv2.cvtColor(im, cv2.COLOR_BGR2GRAY)
@@ -38,7 +50,8 @@ def clusterPeople(files):
 
             for (x, y, w, h) in faces:
                 fileLabels[filen].append(im[y:y+h, x:x+w])
-
+    
+    # Compute SIFT feature descriptors for each face
     features = [
         (filename, sift.detectAndCompute(fit(image), None)[1]) for filename in fileLabels
         for image in fileLabels[filename]
@@ -52,12 +65,15 @@ def clusterPeople(files):
             if j == i or features[i][0] == features[j][0]:
                 continue
             sdes = features[j][1]
-            needed = max(int(0.1*min(len(pdes), len(sdes))), 10)
             gcount = 0
+
+            # calculate the 2 nearest neighbors and apply the ratio test
             loweMatches = matcher.knnMatch(pdes, sdes, k=2)
             for m1, m2 in loweMatches:
                 if m1.distance < 0.75*m2.distance and m1.distance <= 300:
                     gcount += 1
+
+            # cluster the two images if the faces match
             if gcount >= 10:
                 clusters[features[i][0]].append(
                     features[j][0]

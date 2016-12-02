@@ -1,3 +1,10 @@
+"""
+
+Authors: Sean Donohoe, Kyle Wiese
+CSCI 5722 Final Project
+
+"""
+
 from tkinter import *
 from tkinter import filedialog
 from clustering import clusterPhotos
