@@ -5,7 +5,7 @@
   2. Install Flask: ```pip install Flask```
   3. Start the webserver: ```python server.py```
   4. Open localhost:5000 on your web browser
-  5. Follow the instructions on the page!
+  5. Follow the instructions on the page! (The provided images are located in static/photos)
   
 Note: If you want to re-choose images, refresh on the image selection page.
   
