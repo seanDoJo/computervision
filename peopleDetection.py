@@ -69,13 +69,16 @@ def clusterPeople(files):
 
             # calculate the 2 nearest neighbors and apply the ratio test
             loweMatches = matcher.knnMatch(pdes, sdes, k=2)
-            for m1, m2 in loweMatches:
-                if m1.distance < 0.75*m2.distance and m1.distance <= 300:
-                    gcount += 1
+            if len(loweMatches) >= 2:
+                for m1, m2 in loweMatches:
+                    if m1.distance < 0.75*m2.distance and m1.distance <= 300:
+                        gcount += 1
 
-            # cluster the two images if the faces match
-            if gcount >= 10:
-                clusters[features[i][0]].append(
-                    features[j][0]
-                )
+                # cluster the two images if the faces match
+                if gcount >= 10:
+                    clusters[features[i][0]].append(
+                        features[j][0]
+                    )
+    for k in clusters:
+        clusters[k] = set(clusters[k])
     return clusters
