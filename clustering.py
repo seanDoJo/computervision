@@ -1,3 +1,10 @@
+"""
+
+Authors: Sean Donohoe, Kyle Wiese
+CSCI 5722 Final Project
+
+"""
+
 import numpy as np
 import cv2
 import os
@@ -20,6 +27,7 @@ def clusterPhotos(files):
     visited = {k: False for k in files}
     clusters = {filename: [] for filename in files}
 
+    # Extract sift feature descriptors and pair with the filename
     features = [
             (filename, sift.detectAndCompute(fit(filename), None)[1]) for filename in files
     ]
@@ -30,31 +38,17 @@ def clusterPhotos(files):
                     if j == i:
                             continue
                     sdes = features[j][1]
-                    needed = max(int(0.1*min(len(pdes), len(sdes))), 10)
                     gcount = 0
-
+                    
+                    # calculate the 2 nearest neighbors for each feature
                     loweMatches = matcher.knnMatch(pdes, sdes, k=2)
                     for m1, m2 in loweMatches:
+                            # only accept the feature if it passes the ratio test and is within a threshold
                             if m1.distance < 0.75*m2.distance and m1.distance <= 150:
                                     gcount += 1
+                    # only conclude a match if there are at least 20 good feature pairs
                     if gcount >= 20:
                             clusters[features[i][0]].append(
                                     features[j][0]
                             )
     return clusters
-
-def getCluster(fname, clusters, explored):
-        cluster = clusters[fname]
-        explored[fname] = True
-        for related in clusters[fname]:
-                if not explored[related]:
-                        cluster += getCluster(related, clusters, explored)
-        cluster += [fname]
-        return cluster
-
-def Cluster(clusters):
-        c = []
-        for filename in clusters:
-                explored = {k: False for k in clusters}
-                c.append(set(getCluster(filename, clusters, explored)))
-        return c 
